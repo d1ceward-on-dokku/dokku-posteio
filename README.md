@@ -1,9 +1,9 @@
-[![GitHub release](https://img.shields.io/github/release/d1ceward/dokku-posteio.svg)](https://github.com/d1ceward/dokku-posteio)
-[![Poste.io](https://img.shields.io/badge/Poste.io-2.4.8-blue.svg)](https://poste.io/changelog)
+[![GitHub release](https://img.shields.io/github/release/d1ceward-on-dokku/dokku-posteio.svg)](https://github.com/d1ceward-on-dokku/dokku-posteio)
+[![Poste.io](https://img.shields.io/badge/Poste.io-2.4.11-blue.svg)](https://poste.io/changelog)
 [![Dokku](https://img.shields.io/badge/Dokku-Repo-blue.svg)](https://github.com/dokku/dokku)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/d1ceward/dokku-posteio/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/d1ceward-on-dokku/dokku-posteio/graphs/commit-activity)
 
-# Poste.io plugin for Dokku (v1.7.3)
+# Poste.io plugin for Dokku (v1.7.4)
 
 ### What is Poste.io?
 
@@ -25,7 +25,7 @@ purposes. Make sure to replace it to your domain name.
 ## Download plugin
 Log onto your Dokku Host to download and install plugin:
 ```bash
-dokku plugin:install https://github.com/d1ceward/dokku-posteio.git
+dokku plugin:install https://github.com/d1ceward-on-dokku/dokku-posteio.git
 ```
 
 ## Domain name
